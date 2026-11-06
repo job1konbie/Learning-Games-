@@ -1,0 +1,6 @@
+{
+  "name": "Duck Shot - 2D Slingshot Arcade",
+  "description": "Aim and stretch the slingshot to hit quirky rubber ducks across whimsical carnival ponds and tricky physics levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
